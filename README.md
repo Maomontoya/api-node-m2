@@ -25,13 +25,13 @@ Babel-Node installation
  
  # Endpoints
   
-> Read (GET): /http://localhost:3000/appointments
+> Read (GET): http://localhost:3000/appointments
 
-> Read single (GET): /http://localhost:3000/appointment/{id}
+> Read single (GET): http://localhost:3000/appointment/{id}
 
-> Create (POST): /http://localhost:3000/appointment/
+> Create (POST): http://localhost:3000/appointment/
 
-> Update (PUT): /http://localhost:3000/appointment/{id}
+> Update (PUT): http://localhost:3000/appointment/{id}
 
-> Delete (DELETE): /http://localhost:3000/appointment/{id}
+> Delete (DELETE): http://localhost:3000/appointment/{id}
 
