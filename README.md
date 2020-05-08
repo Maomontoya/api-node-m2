@@ -25,7 +25,7 @@ Babel-Node installation
  
  # Endpoints
   
-> Read (GET): http://localhost:3000/appointments
+> Read (GET): http://localhost:3000/appointment
 
 > Read single (GET): http://localhost:3000/appointment/{id}
 
